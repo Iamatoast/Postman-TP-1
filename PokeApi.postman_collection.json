@@ -7,7 +7,7 @@
 	},
 	"item": [
 		{
-			"name": "Pikachu",
+			"name": "1. Pikachu",
 			"request": {
 				"method": "GET",
 				"header": [],
@@ -29,7 +29,7 @@
 			"response": []
 		},
 		{
-			"name": "Cantidad de Pokemones",
+			"name": "2. Cantidad de Pokemones",
 			"request": {
 				"method": "GET",
 				"header": [],
@@ -50,7 +50,7 @@
 			"response": []
 		},
 		{
-			"name": "Mewtwo id 150 Pokedex regional e internacional",
+			"name": "3. Mewtwo id 150 Pokedex regional e internacional",
 			"request": {
 				"method": "GET",
 				"header": [],
@@ -72,7 +72,7 @@
 			"response": []
 		},
 		{
-			"name": "Ataques de Charizard",
+			"name": "4. Ataques de Charizard",
 			"request": {
 				"method": "GET",
 				"header": [],
@@ -94,7 +94,7 @@
 			"response": []
 		},
 		{
-			"name": "Altura y peso de Bulbasaur",
+			"name": "5. Altura y peso de Bulbasaur",
 			"request": {
 				"method": "GET",
 				"header": [],
