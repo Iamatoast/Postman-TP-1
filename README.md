@@ -4,7 +4,7 @@
 2 Hay 262 peliculas que en su titulo tiene "Cars"<br/>
 3 La ultima pelicula con el titulo "Hunger" salio en 2024<br/>
 4 ![Poster de Monsters Inc.](https://m.media-amazon.com/images/M/MV5BMTY1NTI0ODUyOF5BMl5BanBnXkFtZTgwNTEyNjQ0MDE@._V1_SX300.jpg)<br/>
-Monsters Inc. tiene 1,017,055 votos en IMDb y actuaron Billy Crystal, John Goodman, Mary Gibbs
+Monsters Inc. tiene 1,017,055 votos en IMDb y actuaron Billy Crystal, John Goodman, Mary Gibbs<br/>
 5 Rocky IV es un drama deportivo, fue dirigido por Sylvester Stallone y tiene una duracion de 91 minutos<br/>
 6 El id "tt0067992" pertenece a Willy Wonka & the Chocolate Factory de 1971<br/>
 <br/>
