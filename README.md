@@ -36,135 +36,135 @@ El id 150 pertenece al Pokemon Mewtwo<br/>
 - <details>
   <summary>Charizard tiene un total de 131 movimientos</summary>
   Charizard puede aprender los siguientes movimientos:
-   - Mega Puño
-   - Puño de Fuego
-   - Puño Trueno
-   - Rasguño
-   - Danza Espada
-   - Corte
-   - Ataque ala
-   - Vuelo
-   - Megapatada
-   - Golpe cabeza
-   - Golpe cuerpo
-   - Derribo
-   - Doble filo
-   - Malicioso
-   - Mordisco
-   - Gruñido
-   - Rugido
-   - Ascuas
-   - Lanzallamas
-   - Hiperrayo
-   - Sumisión
-   - Contraataque
-   - Sísmico
-   - Fuerza
-   - Rayo Solar
-   - Furia dragón
-   - Giro fuego
-   - Terremoto
-   - Fisura
-   - Excavar
-   - Tóxico
-   - Furia
-   - Mimético
-   - Doble Equipo
-   - Pantalla de Humo
-   - Rizo defensa
-   - Reflejo
-   - Venganza
-   - Llamarada
-   - Cabezazo
-   - Golpes furia
-   - Descanso
-   - Avalancha
-   - Cuchillada
-   - Sustituto
-   - Ronquido
-   - Maldición
-   - Protección
-   - Cara susto
-   - Tambor
-   - Bofetón lodo
-   - Enfado
-   - Tormenta de arena
-   - Aguante
-   - Falso tortazo
-   - Contoneo
-   - Corte furia
-   - Ala de acero
-   - Atracción
-   - Sonámbulo
-   - Retribución
-   - Frustración
-   - Puño dinámico
-   - Dragoaliento
-   - Cola férrea
-   - Garra metal
-   - Poder oculto
-   - Ciclón
-   - Día soleado
-   - Triturar
-   - Poder pasado
-   - Golpe roca
-   - Paliza
-   - Onda ígnea
-   - Fuego fatuo
-   - Imagen
-   - Puño certero
-   - Refuerzo
-   - Demolición
-   - Daño secreto
-   - Patada ígnea
-   - Anillo ígneo
-   - Meteorobola
-   - Aire afilado
-   - Sofoco
-   - Tumba rocas
-   - Golpe aéreo
-   - Garra dragón
-   - Danza dragón
-   - Respiro
-   - Don natural
-   - Viento afín
-   - Lanzamiento
-   - Envite ígneo
-   - Tajo aéreo
-   - Pulso dragón
-   - Carga dragón
-   - Onda certera
-   - Gigaimpacto
-   - Garra umbría
-   - Colmillo ígneo
-   - Despejar
-   - Seducción
-   - Viento aciago
-   - Afilagarras
-   - Pirotecnia
-   - Nitrocarga
-   - Canon
-   - Eco voz
-   - Caída libre
-   - Calcinación
-   - Acróbata
-   - Infierno
-   - Voto fuego
-   - Terratemblor
-   - Cola dragón
-   - Avivar
-   - Golpe calor
-   - Vendaval
-   - Confidencia
-   - Llama embrujada
-   - Puño incremento
-   - Giro vil
-   - Vasto impacto
-   - Ráfaga escamas
-   - Ala bis
-   - Arenas ardientes
-   - Teraexplosión
-   - Bramido dragón
-   - Cólera ardiente<br/></details>
+  - Mega Puño
+  - Puño de Fuego
+  - Puño Trueno
+  - Rasguño
+  - Danza Espada
+  - Corte
+  - Ataque ala
+  - Vuelo
+  - Megapatada
+  - Golpe cabeza
+  - Golpe cuerpo
+  - Derribo
+  - Doble filo
+  - Malicioso
+  - Mordisco
+  - Gruñido
+  - Rugido
+  - Ascuas
+  - Lanzallamas
+  - Hiperrayo
+  - Sumisión
+  - Contraataque
+  - Sísmico
+  - Fuerza
+  - Rayo Solar
+  - Furia dragón
+  - Giro fuego
+  - Terremoto
+  - Fisura
+  - Excavar
+  - Tóxico
+  - Furia
+  - Mimético
+  - Doble Equipo
+  - Pantalla de Humo
+  - Rizo defensa
+  - Reflejo
+  - Venganza
+  - Llamarada
+  - Cabezazo
+  - Golpes furia
+  - Descanso
+  - Avalancha
+  - Cuchillada
+  - Sustituto
+  - Ronquido
+  - Maldición
+  - Protección
+  - Cara susto
+  - Tambor
+  - Bofetón lodo
+  - Enfado
+  - Tormenta de arena
+  - Aguante
+  - Falso tortazo
+  - Contoneo
+  - Corte furia
+  - Ala de acero
+  - Atracción
+  - Sonámbulo
+  - Retribución
+  - Frustración
+  - Puño dinámico
+  - Dragoaliento
+  - Cola férrea
+  - Garra metal
+  - Poder oculto
+  - Ciclón
+  - Día soleado
+  - Triturar
+  - Poder pasado
+  - Golpe roca
+  - Paliza
+  - Onda ígnea
+  - Fuego fatuo
+  - Imagen
+  - Puño certero
+  - Refuerzo
+  - Demolición
+  - Daño secreto
+  - Patada ígnea
+  - Anillo ígneo
+  - Meteorobola
+  - Aire afilado
+  - Sofoco
+  - Tumba rocas
+  - Golpe aéreo
+  - Garra dragón
+  - Danza dragón
+  - Respiro
+  - Don natural
+  - Viento afín
+  - Lanzamiento
+  - Envite ígneo
+  - Tajo aéreo
+  - Pulso dragón
+  - Carga dragón
+  - Onda certera
+  - Gigaimpacto
+  - Garra umbría
+  - Colmillo ígneo
+  - Despejar
+  - Seducción
+  - Viento aciago
+  - Afilagarras
+  - Pirotecnia
+  - Nitrocarga
+  - Canon
+  - Eco voz
+  - Caída libre
+  - Calcinación
+  - Acróbata
+  - Infierno
+  - Voto fuego
+  - Terratemblor
+  - Cola dragón
+  - Avivar
+  - Golpe calor
+  - Vendaval
+  - Confidencia
+  - Llama embrujada
+  - Puño incremento
+  - Giro vil
+  - Vasto impacto
+  - Ráfaga escamas
+  - Ala bis
+  - Arenas ardientes
+  - Teraexplosión
+  - Bramido dragón
+  - Cólera ardiente<br/></details>
 ### <a name="punto-5b"></a>5. Altura y peso de Bulbasaur<br/>
 El peso de Bulbasaur es 6.9 kg y tiene una altura de 0.7 m
