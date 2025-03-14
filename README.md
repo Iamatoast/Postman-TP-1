@@ -33,7 +33,7 @@ En la fecha actual 10/3/2025, existen una cantidad total de 1304 pokemones<br/>
 ### <a name="punto-3b"></a>3. Mewtwo<br/>
 El id 150 pertenece al Pokemon Mewtwo<br/>
 ### <a name="punto-4b"></a>4. Ataques de Charizard<br/>
-<details>
+- <details>
 <summary>Charizard tiene un total de 131 movimientos</summary>
 Charizard puede aprender los siguientes movimientos:
    - Mega Puño
