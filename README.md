@@ -1,17 +1,26 @@
 # Postman-TP-1<br/>
 ![Logo de Postman](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freelogovectors.net%2Fwp-content%2Fuploads%2F2020%2F12%2Fpostman-logo.png&f=1&nofb=1&ipt=0d1ea55f64e14ba1c9420fe57c6e6af2c87566559ccd596be2fa1554b606cca4&ipo=images)<br/>
 ## Parte 1<br/>
-### 1. Hay 262 peliculas que en su titulo tiene "Cars"<br/>
-2. La ultima pelicula con el titulo "Hunger" salio en 2024<br/>
-3. ![Poster de Monsters Inc.](https://m.media-amazon.com/images/M/MV5BMTY1NTI0ODUyOF5BMl5BanBnXkFtZTgwNTEyNjQ0MDE@._V1_SX300.jpg)<br/>
+### 1. Peliculas Nombradas Cars<br/>
+Hay 262 peliculas que en su titulo tiene "Cars"<br/>
+### 2. Ultima Pelicula Hunger<br/>
+La ultima pelicula con el titulo "Hunger" salio en 2024<br/>
+### 3. Monsters Inc<br/>
+![Poster de Monsters Inc.](https://m.media-amazon.com/images/M/MV5BMTY1NTI0ODUyOF5BMl5BanBnXkFtZTgwNTEyNjQ0MDE@._V1_SX300.jpg)<br/>
 Monsters Inc. tiene 1,017,055 votos en IMDb y actuaron Billy Crystal, John Goodman, Mary Gibbs<br/>
-4. Rocky IV es un drama deportivo, fue dirigido por Sylvester Stallone y tiene una duracion de 91 minutos<br/>
-5. El id "tt0067992" pertenece a Willy Wonka & the Chocolate Factory de 1971<br/>
+### 4. Rocky IV<br/>
+Rocky IV es un drama deportivo, fue dirigido por Sylvester Stallone y tiene una duracion de 91 minutos<br/>
+### 5. Id de Willy Wonka<br/>
+El id "tt0067992" pertenece a Willy Wonka & the Chocolate Factory de 1971<br/>
 ## Parte 2<br/>
-1. Aca esta la info de Pikachu<br/>
-2. En la fecha actual 10/3/2025, existen una cantidad total de 1304<br/>
-3. El id 150 pertenece al Pokemon Mewtwo<br/>
-4. Charizard puede aprender los siguientes movimientos:
+### 1. Pikachu<br/>
+Aca esta la info de Pikachu<br/>
+### 2. Cantidad de Pokemones<br/>
+En la fecha actual 10/3/2025, existen una cantidad total de 1304<br/>
+### 3. Mewtwo<br/>
+El id 150 pertenece al Pokemon Mewtwo<br/>
+### 4. Ataques de Charizard<br/>
+Charizard puede aprender los siguientes movimientos:
    - Mega Puño
    - Puño de Fuego
    - Puño Trueno
@@ -142,4 +151,5 @@ Monsters Inc. tiene 1,017,055 votos en IMDb y actuaron Billy Crystal, John Goodm
    - Teraexplosión
    - Bramido dragón
    - Cólera ardiente<br/>
-5. El peso de Bulbasaur es 6.9 kg y tiene una altura de 0.7 m
+### 5. Altura y peso de Bulbasaur<br/>
+El peso de Bulbasaur es 6.9 kg y tiene una altura de 0.7 m
