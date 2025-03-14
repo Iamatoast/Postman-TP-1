@@ -165,7 +165,6 @@ Charizard puede aprender los siguientes movimientos:
    - Arenas ardientes
    - Teraexplosión
    - Bramido dragón
-   - Cólera ardiente<br/>
-</details>
+   - Cólera ardiente<br/></details>
 ### <a name="punto-5b"></a>5. Altura y peso de Bulbasaur<br/>
 El peso de Bulbasaur es 6.9 kg y tiene una altura de 0.7 m
