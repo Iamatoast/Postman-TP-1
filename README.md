@@ -33,6 +33,8 @@ En la fecha actual 10/3/2025, existen una cantidad total de 1304 pokemones<br/>
 ### <a name="punto-3b"></a>3. Mewtwo<br/>
 El id 150 pertenece al Pokemon Mewtwo<br/>
 ### <a name="punto-4b"></a>4. Ataques de Charizard<br/>
+<details>
+<summary>Charizard tiene un total de 131 movimientos</summary>
 Charizard puede aprender los siguientes movimientos:
    - Mega Puño
    - Puño de Fuego
@@ -164,5 +166,6 @@ Charizard puede aprender los siguientes movimientos:
    - Teraexplosión
    - Bramido dragón
    - Cólera ardiente<br/>
+</details>
 ### <a name="punto-5b"></a>5. Altura y peso de Bulbasaur<br/>
 El peso de Bulbasaur es 6.9 kg y tiene una altura de 0.7 m
