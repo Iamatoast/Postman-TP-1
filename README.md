@@ -35,7 +35,7 @@ El id 150 pertenece al Pokemon Mewtwo<br/>
 ### <a name="punto-4b"></a>4. Ataques de Charizard<br/>
 - <details>
   <summary>Charizard tiene un total de 131 movimientos</summary>
-  Charizard puede aprender los siguientes movimientos:
+  Charizard puede aprender los siguientes movimientos:<br/>
   - Mega Puño<br/>
   - Puño de Fuego<br/>
   - Puño Trueno<br/>
