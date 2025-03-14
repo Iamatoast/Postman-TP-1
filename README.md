@@ -1,7 +1,7 @@
 # Postman-TP-1<br/>
 ![Logo de Postman](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freelogovectors.net%2Fwp-content%2Fuploads%2F2020%2F12%2Fpostman-logo.png&f=1&nofb=1&ipt=0d1ea55f64e14ba1c9420fe57c6e6af2c87566559ccd596be2fa1554b606cca4&ipo=images)<br/>
-## Parte 1<br/>
-### 1. Peliculas Nombradas Cars (./OMDb.postman_collection.json)<br/>
+## [Parte 1](OMDb.postman_collection.json)<br/>
+### 1. Peliculas Nombradas Cars <br/>
 Hay 262 peliculas que en su titulo tiene "Cars"<br/>
 ### 2. Ultima Pelicula Hunger<br/>
 La ultima pelicula con el titulo "Hunger" salio en 2024<br/>
@@ -12,7 +12,7 @@ Monsters Inc. tiene 1,017,055 votos en IMDb y actuaron Billy Crystal, John Goodm
 Rocky IV es un drama deportivo, fue dirigido por Sylvester Stallone y tiene una duracion de 91 minutos<br/>
 ### 5. Id de Willy Wonka<br/>
 El id "tt0067992" pertenece a Willy Wonka & the Chocolate Factory de 1971<br/>
-## Parte 2<br/>
+## [Parte 2](PokeApi.postman_collection.json)<br/>
 ### 1. Pikachu<br/>
 Aca esta la info de Pikachu<br/>
 ### 2. Cantidad de Pokemones<br/>
