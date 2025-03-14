@@ -1,18 +1,21 @@
 # Postman-TP-1<br/>
 ![Logo de Postman](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freelogovectors.net%2Fwp-content%2Fuploads%2F2020%2F12%2Fpostman-logo.png&f=1&nofb=1&ipt=0d1ea55f64e14ba1c9420fe57c6e6af2c87566559ccd596be2fa1554b606cca4&ipo=images)<br/>
 ### Tabla de contenidos
-- [Parte 1](#parte-1)
-   - [Punto 1](#punto-1a)
-   - [Punto 2](#punto-2a)
-   - [Punto 3](#punto-3a)
-   - [Punto 4](#punto-4a)
-   - [Punto 5](#punto-5a)
- - [Parte 2](#parte-2)
-   - [Punto 1](#punto-1b)
-   - [Punto 2](#punto-2b)
-   - [Punto 3](#punto-3b)
-   - [Punto 4](#punto-4b)
-   - [Punto 5](#punto-5b)
+| [Parte 1](#parte-1)  |
+| -------------------- |
+| [Punto 1](#punto-1a) |
+| [Punto 2](#punto-2a) |
+| [Punto 3](#punto-3a) |
+| [Punto 4](#punto-4a) |
+| [Punto 5](#punto-5a) |
+
+| [Parte 2](#parte-2)  |
+| -------------------- |
+| [Punto 1](#punto-1b) |
+| [Punto 2](#punto-2b) |
+| [Punto 3](#punto-3b) |
+| [Punto 4](#punto-4b) |
+| [Punto 5](#punto-5b) |
 ## <a name="parte-1"></a>[Parte 1](OMDb.postman_collection.json)<br/>
 ### <a name="punto-1a"></a>1. Peliculas Nombradas Cars<br/>
 Hay 262 peliculas que en su titulo tiene "Cars"<br/>
