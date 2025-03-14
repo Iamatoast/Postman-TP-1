@@ -1,7 +1,7 @@
 # Postman-TP-1<br/>
 ![Logo de Postman](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freelogovectors.net%2Fwp-content%2Fuploads%2F2020%2F12%2Fpostman-logo.png&f=1&nofb=1&ipt=0d1ea55f64e14ba1c9420fe57c6e6af2c87566559ccd596be2fa1554b606cca4&ipo=images)<br/>
 ## Parte 1<br/>
-### 1. Peliculas Nombradas Cars<br/>
+### 1. Peliculas Nombradas Cars (/OMDb.postman_collection.json)<br/>
 Hay 262 peliculas que en su titulo tiene "Cars"<br/>
 ### 2. Ultima Pelicula Hunger<br/>
 La ultima pelicula con el titulo "Hunger" salio en 2024<br/>
